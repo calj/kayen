@@ -1,0 +1,6 @@
+[package]
+name = "kayen"
+version = "0.1.0"
+authors = ["Louis Bellet <lbellet@heliostech.fr>"]
+
+[dependencies]
